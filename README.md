@@ -21,7 +21,7 @@ To run Manzil locally, follow these steps:
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/manzil.git
+git clone https://github.com/Harsh2700
 Import the project into your favorite Java IDE.
 Set up the MySQL database and update the database configuration in the project.
 Run the application.
